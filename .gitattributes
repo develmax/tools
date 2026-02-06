@@ -1,1 +1,2 @@
 Postman[[:space:]](x64).zip filter=lfs diff=lfs merge=lfs -text
+Postman.zip filter=lfs diff=lfs merge=lfs -text
